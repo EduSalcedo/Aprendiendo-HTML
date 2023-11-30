@@ -1,0 +1,26 @@
+.colores {
+    color: tomato;
+}
+h1 {
+    background: #637E76;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.p1 {
+    background: #F4F27E;
+    margin: 100px 50px;
+    padding: 40px;
+}
+h2 {
+    background-color: rgb(255, 81, 0);
+    display: inline-block;
+}
+a {
+    background-color: magenta;
+    display: block;
+}
